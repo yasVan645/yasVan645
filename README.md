@@ -1,6 +1,6 @@
 # Hello!, I'm Yasin 🧑🏽‍💻
 
-<img src="https://raw.githubusercontent.com/yasVan645/local/main/profile-frame.png?token=GHSAT0AAAAAABZS62ZATB7HKPIZ2CE7EUVKYZ554HQ" alt="[Yasin Vandry's alpha banner]">
+<img src="https://github.com/yasVan645/local/blob/af1bbb7d360f24eb5ecc1a81cda13c6751aae292/profile-frame.png" alt="[Yasin Vandry's alpha banner]">
 I'm a software and web developer who is passionate about new tech discoveries and creating technology to elevate and help people in their particular needs, and constructing a tech enthusiast community. My technology developing areas are mostly based around Javascript, APIs + Markups (HTML+CSS) and GraphQL for some of the time. I'm also still exploring new and upcoming JS frameworks and open to learning new stuff. 
 
 
