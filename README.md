@@ -1,4 +1,4 @@
-# Hello!, I'm Yasin 🧑🏽‍💻
+# Hello!, I'm yasvan🧑🏽‍💻
 
 <img src="https://github.com/yasVan645/local/blob/af1bbb7d360f24eb5ecc1a81cda13c6751aae292/profile-frame.png" alt="[Yasin Vandry's alpha banner]">
 I'm a software and web developer who is passionate about new tech discoveries and creating technology to elevate and help people in their particular needs, and constructing a tech enthusiast community. My technology developing areas are mostly based around Javascript, APIs + Markups (HTML+CSS) and GraphQL for some of the time. I'm also still exploring new and upcoming JS frameworks and open to learning new stuff. 
@@ -10,6 +10,6 @@ I'm a software and web developer who is passionate about new tech discoveries an
   &nbsp;-   &nbsp;We can chat via NIMO <a style="color: #9568A6">[COMING SOON]</a> 💼
 
 -----
-Credits: [Yasin Vandry](https://github.com/yasVan645)
+Credits: [yasvan](https://github.com/yasVan645)
 
 Last Edited on: 05/10/2022
